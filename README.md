@@ -16,4 +16,4 @@
 - 공인성적서에 쓰인 버전은 아님
 
 ## logo
-<img src="https://github.com/KETI-MoRo/index/blob/master/logo.png" width="30%" >
+![logo](logo.png)
